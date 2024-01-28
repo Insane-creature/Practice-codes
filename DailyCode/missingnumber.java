@@ -1,3 +1,4 @@
+package DailyCode;
 import java.util.*;
 public class missingnumber {
     public static void main(String[] args){

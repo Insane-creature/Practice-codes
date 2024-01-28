@@ -1,3 +1,4 @@
+package DailyCode;
 public class stringtoInteger {
     public static int myAtoi(String s) {
         s = s.trim();

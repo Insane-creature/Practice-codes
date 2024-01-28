@@ -1,3 +1,4 @@
+package DailyCode;
 public class subarraysum {
     public static void main(String[] args){
         int count = 0;

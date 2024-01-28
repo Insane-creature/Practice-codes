@@ -1,3 +1,4 @@
+package DailyCode;
 public class twosums {
     public static void main(String[] args){
         int[] ar = {2,7,11,15};
